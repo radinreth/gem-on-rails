@@ -6,4 +6,4 @@ common gems for rails project
 
 [chartkick](https://github.com/ankane/chartkick): js charts(chart.js, google chart, ...) for reporting 
 
-https://github.com/splitrb/split
+[split](https://github.com/splitrb/split)
