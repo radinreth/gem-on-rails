@@ -11,3 +11,13 @@ common gems for rails project
 [mina](https://github.com/mina-deploy/mina): deployment tool
 
 [view_component](https://github.com/github/view_component): refactor view
+
+[high_voltage](https://github.com/thoughtbot/high_voltage): static page such as about us, marketing page, ...
+
+[adminlte](https://adminlte.io/): bootstrap admin template
+
+[monit](https://github.com/arnaudsj/monit): monitor linux
+
+
+## Linux
+- logrotate - rotates, compresses, and mails system logs
