@@ -9,3 +9,5 @@ common gems for rails project
 [split](https://github.com/splitrb/split): a/b testing tool
 
 [mina](https://github.com/mina-deploy/mina): deployment tool
+
+[view_component](https://github.com/github/view_component): refactor view
