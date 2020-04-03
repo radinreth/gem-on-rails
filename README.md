@@ -6,4 +6,6 @@ common gems for rails project
 
 [chartkick](https://github.com/ankane/chartkick): js charts(chart.js, google chart, ...) for reporting 
 
-[split](https://github.com/splitrb/split)
+[split](https://github.com/splitrb/split): a/b testing tool
+
+[mina](https://github.com/mina-deploy/mina): deployment tool
