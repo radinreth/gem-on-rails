@@ -21,3 +21,6 @@ common gems for rails project
 
 ## Linux
 - logrotate - rotates, compresses, and mails system logs
+
+## Admin template
+https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
