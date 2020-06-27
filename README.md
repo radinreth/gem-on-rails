@@ -20,6 +20,8 @@ apexcharts.rb
 
 [monit](https://github.com/arnaudsj/monit): monitor linux
 
+[data-confirm-modal](https://github.com/ifad/data-confirm-modal)
+
 
 ## Yarn package
 [local-time](https://classic.yarnpkg.com/en/package/local-time)
