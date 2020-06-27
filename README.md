@@ -36,3 +36,9 @@ apexcharts.rb
 https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
 
 [administrate](https://github.com/thoughtbot/administrate)
+
+## JS library
+
+gojs
+
+d3js
