@@ -22,6 +22,8 @@ apexcharts.rb
 
 [data-confirm-modal](https://github.com/ifad/data-confirm-modal)
 
+[foreman](https://github.com/ddollar/foreman)
+
 
 ## Yarn package
 [local-time](https://classic.yarnpkg.com/en/package/local-time)
